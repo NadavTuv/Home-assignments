@@ -25,7 +25,7 @@ The dataset comprises two sets: a training dataset (`project_df`) with labeled d
     - Assessed the model's performance on the holdout data using appropriate metrics.
   
 
-# Business Data Science Project - Budget Allocation
+# Business Data Science Project 2 - Budget Allocation
 
 ## Project Overview
 
