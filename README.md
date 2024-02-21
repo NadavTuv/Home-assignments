@@ -67,3 +67,32 @@ Two CSV files, "spend.csv" and "revenue.csv," contain mock data representing dig
 - **Avoided Processes/Methods Explanation:**
     - Explained reasons for avoiding certain processes or methods due to time constraints.
 
+# Sales Forecasting Model - Assignment #3
+
+## Overview
+
+This project focuses on the development of a sales forecasting model for a range of products within the same category. The dataset comprises sales data, competitor sales, holiday dates, and business events, providing a comprehensive foundation for analysis and prediction.
+
+## Project Scope
+
+### Descriptive Statistics
+
+A meticulous exploration of descriptive statistics for both sales and competitor data was conducted to extract essential insights. This initial phase set the stage for subsequent modeling decisions.
+
+### Sales Forecasting Model
+
+The development of a predictive model involved the selection of an algorithm tailored to the intricacies of the dataset. Standard procedures such as data cleaning and validation were rigorously applied to ensure the model's reliability.
+
+### Model Validation
+
+Validation was a critical step to verify the accuracy and consistency of the model's predictions. Rigorous testing against known data ensured the robustness of the forecasting model.
+
+### Interpretation and Future Steps
+
+Upon successful model implementation, sales predictions for the next 6 months were generated. The interpretation section provides an in-depth analysis of significant variables, assesses the model's strengths and weaknesses, and suggests avenues for improvement.
+
+## Project Files
+
+- **sales_forecasting.ipynb:** Access the Jupyter Notebook to review the code, analysis, and modeling details.
+- **sales_forecast_predictions.xlsx:** Refer to the Excel file for a detailed breakdown of sales predictions.
+
